@@ -1,0 +1,23 @@
+{
+  "name": "ibeacon-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "noble": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Flowerhop/ibeacon-test.git"
+  },
+  "author": "Flowerhop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flowerhop/ibeacon-test/issues"
+  },
+  "homepage": "https://github.com/Flowerhop/ibeacon-test#readme"
+}
